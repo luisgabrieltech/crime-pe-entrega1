@@ -78,7 +78,7 @@ crime-pe-entrega1/
 
 ```bash
 # 1. Clone o repositório
-git clone <url-do-repositorio>
+git clone <[url-do-repositorio](https://github.com/luisgabrieltech/crime-pe-entrega1.git)>
 cd crime-pe-entrega1
 
 # 2. Crie e ative o ambiente virtual
