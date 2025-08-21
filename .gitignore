@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+.notebooks_cache/
+
+# Data
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Reports
+reports/*.png
+reports/*.json
+reports/figuras/*
+!reports/.gitkeep
+!reports/figuras/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
